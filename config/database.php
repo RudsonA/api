@@ -24,7 +24,7 @@ class Database{
     }
 }
 
-$db = new Database; 
-echo "<pre>";
-var_dump($db -> getConnection()); 
+// $db = new Database; 
+// echo "<pre>";
+// var_dump($db -> getConnection()); 
 ?>
